@@ -30,6 +30,16 @@ export default MeuComponente;
 
 ![width:800px ](./img/lc.png) 
 
+
+
+---
+## Onde?
+
+![width:300px](./img/rlcmethods.png)
+
+###### getDerivedStateFromError: Atualiza o estado do componente **para que** uma UI de fallback possa ser renderizada. É chamado durante a fase de renderização.
+###### componentDidCatch: Executa ações secundárias **após** o estado ter sido atualizado. É chamado depois que o componente foi renderizado novamente com a UI de fallback.
+
 ---
 
 ## Vai dar certo!
@@ -110,14 +120,7 @@ function App() {
 export default App
 ```
 ---
-## Portanto
 
-![width:300px](./img/rlcmethods.png)
-
-###### getDerivedStateFromError: Atualiza o estado do componente **para que** uma UI de fallback possa ser renderizada. É chamado durante a fase de renderização.
-###### componentDidCatch: Executa ações secundárias **após** o estado ter sido atualizado. É chamado depois que o componente foi renderizado novamente com a UI de fallback.
-
----
 ## Obrigado!
 ![width:800px ](./img/tiririca.jpeg)
 ###### https://br.linkedin.com/in/davi-portela  | https://github.com/daviport
