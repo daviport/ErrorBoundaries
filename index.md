@@ -28,7 +28,7 @@ export default MeuComponente;
 ---
 ## Ciclo de Vida
 
-![width:800px ](https://github.com/daviport/ErrorBoundaries/blob/main/img/) 
+![width:800px ](./img/lc.png) 
 
 ---
 
