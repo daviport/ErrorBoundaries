@@ -1,7 +1,0 @@
-plugins:
-  - jekyl-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
- - rlc.md
