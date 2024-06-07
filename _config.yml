@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+
+title: "Error Boundaries"
+description: "Apresentação sobre forma de tratamento de erros disponível no react"
+baseurl: "https://github.com/daviport/ErrorBoundaries"
+url: "https://github.com/daviport"
